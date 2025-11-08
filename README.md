@@ -52,11 +52,16 @@
 </p>
 
 ---
-
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-link)  
-- **Email:** dharsh.3026@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/dharshini12">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+  <a href="mailto:dharsh.3026@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30"  />
+  </a>
+</p>
 
 ---
 
