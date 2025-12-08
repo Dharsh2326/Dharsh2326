@@ -36,7 +36,7 @@
 
 ## 🏗️ Projects
 
-### 🔹 AI-Based Resume Scorer and Improvement Advisor 
+### 🔹 Automated Resume Relevance Check System
 > Built an AI-based resume screening tool that evaluates candidate resumes against job descriptions with smart relevance scoring.
 ---
 
