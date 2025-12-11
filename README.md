@@ -43,15 +43,17 @@
 ## 📊 GitHub Analytics
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharsh2326&show_icons=true&theme=github_dark" alt="stats" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharsh2326&layout=compact&theme=github_dark" alt="most used languages" />
-
-
----
-<p align="center">
-  <img src="https://github.com/Dharsh2326/Dharsh2326/blob/output/github-snake.svg" alt="snake animation" />
-</p>
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dharsh2326&show_icons=true&theme=github_dark" alt="stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dharsh2326&layout=compact&theme=github_dark" alt="most used languages" />
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharsh2326/Dharsh2326/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dharsh2326/Dharsh2326/output/snake-light.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Dharsh2326/Dharsh2326/output/snake-dark.svg" />
+</picture>
+---
+
 ## 📫 Let's Connect
 
 <p align="left">
