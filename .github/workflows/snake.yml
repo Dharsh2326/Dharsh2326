@@ -18,8 +18,9 @@ jobs:
         with:
           github_user_name: Dharsh2326
           outputs: |
-            dist/snake-dark.svg?palette=github-dark&snake_color=7845ab&grid_color=b0b0b0
-            dist/snake-light.svg?palette=github-light&snake_color=7845ab&grid_color=b0b0b0
+            dist/snake-dark.svg?palette=github-dark&snake_color=7845ab&grid_color=2d333b
+            dist/snake-light.svg?palette=github-light&snake_color=7845ab&grid_color=eaeef2
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
