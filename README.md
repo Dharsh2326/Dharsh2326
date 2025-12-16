@@ -46,9 +46,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharsh2326&layout=donut&theme=transparent)
 
 ---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dharsh2326/Dharsh2326/output/snake-dark.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Dharsh2326/Dharsh2326/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Dharsh2326/Dharsh2326/output/snake-light.svg"
+         alt="snake animation" />
+  </picture>
 </p>
+
 
 ## 📫 Let's Connect
 
