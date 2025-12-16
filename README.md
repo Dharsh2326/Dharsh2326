@@ -26,7 +26,7 @@
 ###  Other: <img src="https://skillicons.dev/icons?i=git" height="22" style="position: relative; top: 0px; margin-left: 6px;" />
 ---
 
-## 🧠 Currently Working On
+##  Currently Working On
 
 - Enhancing problem-solving through structured DSA practice  
 - Learning Agentic AI and advanced generative AI applications  
@@ -34,17 +34,16 @@
 
 ---
 
-## 🏗️ Projects
+##  Projects
 
 ### 🔹 Automated Resume Relevance Check System
 > Built an AI-based resume screening tool that evaluates candidate resumes against job descriptions with smart relevance scoring.
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
-
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dharsh2326&show_icons=true&theme=github_dark" alt="stats" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dharsh2326&layout=compact&theme=github_dark" alt="most used languages" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharsh2326&show_icons=true&theme=transparent) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharsh2326&layout=donut&theme=transparent)
 
 ---
 <p align="center">
