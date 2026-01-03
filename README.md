@@ -42,8 +42,9 @@
 
 ##  GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharsh2326&show_icons=true&theme=transparent&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharsh2326&layout=donut&theme=transparent&cache_seconds=86400)
+![GitHub stats](https://your-name-github-readme-stats.vercel.app/api?username=Dharsh2326&show_icons=true)
+![Top Langs](https://your-name-github-readme-stats.vercel.app/api/top-langs/?username=Dharsh2326&layout=compact)
+
 
 ---
 
